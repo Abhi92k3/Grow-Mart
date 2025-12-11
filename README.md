@@ -17,7 +17,7 @@ Grow Mart is a web application designed to bridge the gap between farmers and bu
 
 # Installation  
 ## Clone the repository:
-    git clone git@github.com:gauravraj347/growmart.git
+    git clone git@github.com:Abhi92k3/Grow-Mart.git
 ## Navigate to the project directory:
    cd frontend / cd backend
 ## Install dependencies:
